@@ -43,8 +43,6 @@ footer .copyright {
           -ms-user-select: none;
               user-select: none;
     cursor: default;
-    transition: color, background;
-    transition-duration: 1s;
 }
 .tdesktop input {
     -webkit-touch-callout: text;
